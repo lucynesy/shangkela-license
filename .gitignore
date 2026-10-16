@@ -1,0 +1,6 @@
+# 只把 server/ 推上去，其余全部忽略
+*
+!server/
+!server/**
+!README.md
+!.gitignore
